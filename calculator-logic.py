@@ -9,7 +9,7 @@ def click_button(item):                                           # the 'click_b
     global expression
     input_text.set(input_text.get()+(str(item)))
 
-def clear_button():                                               # the 'clear_button' function removes the final item from the input list
+def clear_button():                                               # the 'clear_button' function removes the last inputted item from the input list
     global expression
     expression = " "
     input_text.set(input_text.get()[0:-1])
