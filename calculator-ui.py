@@ -38,9 +38,9 @@ button_frame.pack()
 #--------------------------------------- BUTTONS ---------------------------------------
 
 #First_row
-clearall = Button(button_frame, text = "CA", fg = "white", width = 10, height = 3, bd = 0, bg = "gray25", cursor = "hand2", command = lambda: clear_all()).grid(row = 1, column = 0, padx = 1, pady = 1)
-l_bracket= Button(button_frame, text = "(", fg = "black", width = 10, height = 3, bd = 0, bg = "gray70", cursor = "hand2", command = lambda: click_button("(")).grid(row = 1, column = 1, padx = 1, pady = 1)
-r_bracket = Button(button_frame, text = ")", fg = "black", width = 10, height = 3, bd = 0, bg = "gray70", cursor = "hand2", command = lambda: click_button(")")).grid(row = 1, column = 2, padx = 1, pady = 1)
+clear_all = Button(button_frame, text = "CA", fg = "white", width = 10, height = 3, bd = 0, bg = "gray25", cursor = "hand2", command = lambda: clear_all()).grid(row = 1, column = 0, padx = 1, pady = 1)
+l_parenth = Button(button_frame, text = "(", fg = "black", width = 10, height = 3, bd = 0, bg = "gray70", cursor = "hand2", command = lambda: click_button("(")).grid(row = 1, column = 1, padx = 1, pady = 1)
+r_parenth = Button(button_frame, text = ")", fg = "black", width = 10, height = 3, bd = 0, bg = "gray70", cursor = "hand2", command = lambda: click_button(")")).grid(row = 1, column = 2, padx = 1, pady = 1)
 clear = Button(button_frame, text = "CE", fg = "white", width = 10, height = 3, bd = 0, bg = "gray25", cursor = "hand2", command = lambda: clear_button()).grid(row = 1, column = 3, padx = 1, pady = 1)
 
 #Second_row
