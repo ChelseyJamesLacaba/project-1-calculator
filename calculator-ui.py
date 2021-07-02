@@ -50,34 +50,6 @@ power_func = Button(button_frame, text = "^", fg = "black", width = 10, height =
 pie_func = Button(button_frame, text = "π", fg = "black", width = 10, height = 3, bd = 0, bg = "gray70", cursor = "hand2", command = lambda: click_button( "*(3.1415)")).grid(row = 2, column = 1, padx = 1, pady = 1)
 sqrt_func = Button(button_frame, text = "√",fg = "black", width = 10, height = 3, bd = 0, bg = "gray70", cursor = "hand2", command = lambda: click_button("**(1/2)")).grid(row = 2, column = 2, padx = 1, pady = 1)
 divide_func = Button(button_frame, text = "/", fg = "black", width = 10, height = 3, bd = 0, bg = "orange2", cursor = "hand2", command = lambda: click_button("/")).grid(row = 2, column = 3, padx = 1, pady = 1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 multiply = Button(button_frame, text = "*", fg = "white", width = 10, height = 3, bd = 0, bg = "black", cursor = "hand2", command = lambda: click_button("*")).grid(row = 3, column = 3, padx = 1, pady = 1)
 
 #Fourth_row
