@@ -2,7 +2,7 @@
 
 ### Python Calculator using Tkinter
 
-The Calculator made by us, Not Pro Coders, is a GUI based simple calculator using the Python Tkinter module. The said calculator provides standard and basic scientific calculator functionality.
+The Calculator made by us, Not a Pro Coders, is a GUI based simple calculator using the Python Tkinter module. The said calculator provides standard and basic scientific calculator functionality.
 
 ![calculator](https://user-images.githubusercontent.com/86301287/125031280-fdb77980-e0be-11eb-889f-3c62bd05cf8e.gif)
 
