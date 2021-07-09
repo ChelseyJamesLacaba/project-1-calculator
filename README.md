@@ -16,3 +16,10 @@ The Calculator made by us, Not Pro Coders, is a GUI based simple calculator usin
 •	Can handle exponential, roots, and pi functions.
 
 •	Shows ‘ERROR’ if the user inputted invalid responses.
+
+### Note
+• To use the 'Square Root' function, input first the desired number to be squarerooted then click the 'square root' button. Else, the calculator will show error.
+
+• Even the calculator can solve MDAS problem without the help of parentheses, the author/s still put 'parentheses' buttons for the user's convenience and an additional feature.
+
+## This is for educational purposes only.
